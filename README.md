@@ -1,6 +1,6 @@
 # print_err
 
-A command line utility and python library to print to standard error optionally exiting with the provided code.
+A command line utility and python library to print to standard error optionally exiting with a code.
 
 # Install
 ```sh
