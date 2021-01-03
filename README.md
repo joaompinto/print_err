@@ -1,6 +1,6 @@
 # print_err
 
-A command line utility and python library to print to standard error optionally exiting with a code.
+Command line utility and python library to print to standard error optionally exiting with a code.
 
 # Install
 ```sh
@@ -18,5 +18,5 @@ print_err("This messages goes to stderr", exit_code=2)
 
 As a command line utility
 ```sh
-print_err "print to stderr and exit() with code 2" 2
+$ print_err "print to stderr and exit() with code 2" 2
 ```
